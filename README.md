@@ -10,4 +10,27 @@ pkg update
 ```
 pkg install wget
 ```
+```
+wget https://raw.githubusercontent.com/TheShiningVampire/WhatsApp-Automate-Instructions/refs/heads/main/setup.bash
+```
+```
+bash setup.bash
+```
+4. Pair your phone
+```
+./sender -pair-phone <your phone number>
+```
+5. Check if send message works
+```
+./sender send 919769060543@s.whatsapp.net "Hello"
+```
+6. On laptop make a Google Sheet and get API key using Google Cloud Console
+7. Get the POA.py code in phone using following commands
+```
+cd /data/data/com.termux/files/home/.termux/tasker
+```
+```
+wget 
+
+
 
