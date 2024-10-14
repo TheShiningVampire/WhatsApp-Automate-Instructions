@@ -1,3 +1,5 @@
+#!/data/data/com.termux/files/usr/bin/python
+
 import requests
 import subprocess
 from datetime import datetime
