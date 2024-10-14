@@ -8,27 +8,6 @@
 pkg update 
 ```
 ```
-pkg install git
-```
-```
-pkg install python
-```
-```
-termux-setup-storage
-```
-```
-apt upgrade openssl
-```
-```
-apt install golang
-```
-```
-pkg install ranger
-```
-```
-cd 
-```
-```
-mkdir -p .termux/tasker/ && cd .termux/tasker/
+pkg install wget
 ```
 
