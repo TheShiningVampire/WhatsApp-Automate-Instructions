@@ -10,7 +10,7 @@ pkg install ranger
 mkdir -p .termux/tasker/ && cd .termux/tasker/
 
 # Clone the whatsmeow repo
-https://github.com/TheShiningVampire/whatsmeow
+git clone https://github.com/TheShiningVampire/whatsmeow
 
 cd whatsmeow/sender
 
