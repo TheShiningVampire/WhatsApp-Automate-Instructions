@@ -30,7 +30,18 @@ bash setup.bash
 cd /data/data/com.termux/files/home/.termux/tasker
 ```
 ```
-wget 
+wget https://raw.githubusercontent.com/TheShiningVampire/WhatsApp-Automate-Instructions/refs/heads/main/POA_test.py
+```
+```
+python POA_test.py
+```
+8. Get the original POA.py file from github
+```
+wget https://raw.githubusercontent.com/TheShiningVampire/WhatsApp-Automate-Instructions/refs/heads/main/POA.py
+```
+9. Get the Tasker app on Play Store
+10. Get Termux:Tasker on F-Droid
+11. Setup and give permissions as required
 
 
 
