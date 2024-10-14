@@ -18,7 +18,7 @@ bash setup.bash
 ```
 4. Pair your phone
 ```
-./sender -pair-phone <your phone number>
+./sender pair-phone <your phone number>
 ```
 5. Check if send message works
 ```
